@@ -23,7 +23,7 @@ This is a simple ESP32 S2 Audio Websocket client project with the following feat
 
 ## How to use this
 We encourage the users to use the example as a template for the new projects.
-- License: It cannot be used for commercial purposes but as wished for personal use. - Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+- License: It cannot be used for commercial purposes but can be used as wished for personal and educational use. - Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 - Contributors: M G Vybhav Nag
 - Attribution: to Craft Power [URL: craftpower.cc], M G Vybhav
 
